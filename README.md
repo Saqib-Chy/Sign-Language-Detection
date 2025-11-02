@@ -1,7 +1,7 @@
 # Deep Learning for Sign Language Detection and Caption Translation  
 
 ### Authors  
-**Hamsalakshmi Ramachandran, Sugandha Chauhan, Himani Shah, Manjot Singh, Saqib Chowdhury, Kush Bindal**  
+**Saqib Chowdhury,Hamsalakshmi Ramachandran, Sugandha Chauhan, Himani Shah, Manjot Singh,  Kush Bindal**  
 _Department of Applied Data Science, San José State University_  
 
 ---
@@ -98,4 +98,14 @@ The pipeline leverages **EgoHands** and **WLASL** datasets, multiple segmentatio
 
 ---
 
-## Folder Structure  
+## Conclusion  
+Our framework achieves **high segmentation accuracy and strong gloss recognition** across six architectures.  
+It demonstrates a **scalable, modular, and multilingual system** for continuous ASL interpretation — bridging accessibility gaps between Deaf and hearing communities.  
+
+---
+
+## Citation  
+If you use this repository, please cite:  
+> Chowdhury, S., Ramachandran, H., Chauhan, S., Shah, H., Singh, M., & Bindal, K.  
+> *Deep Learning for Sign Language Detection and Caption Translation*,  
+> San José State University, Department of Applied Data Science, 2025.  
